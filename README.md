@@ -4,7 +4,7 @@ Parameters measure by hand.  </br>
 参数通过手工测量。
 
 Brand is not right, because i only use the design paper as a base and modifiy the parameters upon it. </br>
-品牌是错误的，我只是将这个图纸作为基底并在此图纸上修改参数而已。
+品牌是不对的，我只是将这个图纸作为基底并在此图纸上修改参数而已。
 
 After actual use, this brand can manufacture these screws which is not completely the same as the original onc, but also suit to use. </br>
 经过实际使用，这个牌子能够生产这两种螺丝，但是和原装的有差别，不过相比于使用原装但是滑牙的螺丝而言，这个牌子生产的这两款螺丝也是可以使用的。
